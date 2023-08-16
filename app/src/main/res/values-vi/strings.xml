@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plus">cộng 1</string>
+    <string name="minus">trừ 1</string>
+    <string name="reset">cài lại</string>
+</resources>
